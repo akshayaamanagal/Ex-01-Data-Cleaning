@@ -91,7 +91,6 @@ df.head()
 df.isnull().sum()
 df.info()
 ```
-
 # OUTPUT FOR DATA 2
 ![EX-01-DATA-CLEANING](data2out1.png)
 ![EX-01-DATA-CLEANING](data2out2.png)
@@ -108,6 +107,5 @@ df.info()
 ![EX-01-DATA-CLEANING](median2.png)
 ## AFTER CLEANING
 ![EX-01-DATA-CLEANING](data2af.png)
-
 # RESULT
 Thus the given data is read,cleansed and cleaned data is saved into the file
